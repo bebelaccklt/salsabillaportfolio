@@ -184,8 +184,8 @@
 
 /*** About ***/
 #about .years .display-1 {
-    font-size: 10rem;
-    line-height: 9rem;
+    font-size: 24vh;
+    line-height: 22vh;
 }
 
 #about .years h5 {
